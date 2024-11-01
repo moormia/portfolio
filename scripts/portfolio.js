@@ -71,17 +71,18 @@ button.addEventListener("click", event => {
         </div>
       </div>
       <div class="work">
-        <img src="images/cat-photo-app.png" />
-        <div class="layer">
-          <h3>Cat Photo App</h3>
-          <p>
-            Click here to see the full project.
-          </p>
-          <a href="https://moccaa.github.io/cat-photo-app/" target="_blank"
-            ><i class="fa-solid fa-arrow-up-right-from-square"></i
-          ></a>
-        </div>
-      </div>
+            <img src="images/cafe-menu.png" />
+            <div class="layer">
+              <h3>Cafe-Menu Website</h3>
+              <p>
+                This is an online menu for a local cafe. Click here to see full
+                website.
+              </p>
+              <a href="https://moccaa.github.io/cafe-menu/" target="_blank"
+                ><i class="fa-solid fa-arrow-up-right-from-square"></i
+              ></a>
+            </div>
+          </div>
       <div class="work">
       <img src="images/city-skyline.png" />
       <div class="layer">
