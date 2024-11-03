@@ -672,6 +672,20 @@ nav .fa-solid {
   .header-text h1 span {
     color: #e7b8c9;
   }
+
+  .center-mail {
+    display: block;
+    justify-content: center;
+    align-content: center;
+  }
+
+  .email-add{
+    margin-left: 40px;
+  }
+  
+  .phone-add {
+    margin-left: 70px;
+  }
 }
 
 @media only screen and (max-width: 500px ) {
