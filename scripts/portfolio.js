@@ -109,7 +109,7 @@ button.addEventListener("click", event => {
         <div class="layer">
           <h3>Rock Paper Scissors Game</h3>
           <p>
-            Click here to see the full project.
+            Click here to play.
           </p>
           <a href="https://moormia.github.io/rock-paper-scissors-game/" target="_blank"
             ><i class="fa-solid fa-arrow-up-right-from-square"></i
